@@ -18,3 +18,6 @@ Example implementations of different data structure and algorithms in python.
 - Bubble sort is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. 
 
 - On each pass bubble sort will sort one number to completion. On the first pass I will sort the highest number to the end of the sorted list. On the second pass it will sort the next highest number to the end of the list and so on and so forth.
+
+### Merge Sort
+- Merge sort has a run time of O(n log n)
