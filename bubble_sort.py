@@ -15,6 +15,3 @@ def bubbleSort(mylist):
 
 ex_list = [1, 12, 6, 8, 9, 14, 12, 1]
 print(bubbleSort(ex_list))
-
-# for a list of 8 the outer loop will make 7 iterations
-# for a list of 8 the inner loop will make 7 iterations
